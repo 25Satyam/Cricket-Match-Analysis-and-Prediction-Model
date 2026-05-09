@@ -30,7 +30,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/cricket-analysis.git
+git clone https://github.com/25Satyam/cricket-analysis.git
 cd cricket-analysis
 ```
 
